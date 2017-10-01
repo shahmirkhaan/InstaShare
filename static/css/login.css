@@ -1,0 +1,14 @@
+body{
+
+	text-align: center;
+	
+	padding-top: 200px;
+}
+input
+{
+	text-align: center;
+	width: 300px;
+	font-size: 18px;
+	margin-bottom: 20px;
+	background-color: #fff;
+}
